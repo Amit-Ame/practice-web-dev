@@ -1,0 +1,2 @@
+this is portfolio website for practice
+based on web dev angela yu course
