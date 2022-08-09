@@ -1,2 +1,4 @@
-this is portfolio website for practice
-based on web dev angela yu course
+This repositary is for pracitcs
+
+based on web dev 
+angela yu course , clever programmar , pepcoding
