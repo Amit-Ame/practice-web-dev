@@ -102,3 +102,7 @@ a:hover{
   font : aerial ;
   border-radius: 5%;
 }
+.avtar{
+  border-radius: 100%;
+  width: 300px;
+}
